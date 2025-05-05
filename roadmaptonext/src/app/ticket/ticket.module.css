@@ -1,0 +1,12 @@
+.complete{
+
+
+    background-color: rgb(108, 255, 120);
+}
+.pending{
+    background-color: rgb(255, 255, 120);
+}
+
+.progress{
+    background-color: rgb(255, 120, 120);
+}
